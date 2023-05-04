@@ -1,0 +1,17 @@
+cryptoTrader.controllers.brokerController
+cryptoTrader.controllers.loginController
+cryptoTrader.controllers.startProgramController
+cryptoTrader.controllers.tradeController
+cryptoTrader.dataStorage.brokerDatabase
+cryptoTrader.dataStorage.tradeReceiptDatabase
+cryptoTrader.models.brokerModel
+cryptoTrader.models.brokerModel.tradingStrategies
+cryptoTrader.models.loginModel
+cryptoTrader.models.tradeModel
+cryptoTrader.models.tradeModel.brokerDataFetcher
+cryptoTrader.models.tradeModel.coinFetcher
+cryptoTrader.utils
+cryptoTrader.views.loginView
+cryptoTrader.views.mainView
+cryptoTrader.views.mainView.brokerTableView
+cryptoTrader.views.mainView.tradeView
